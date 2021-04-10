@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "thread-loader-issue-106",
+  "devDependencies": {
+    "source-map-loader": "^2.0.1",
+    "thread-loader": "^3.0.1",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
